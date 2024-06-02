@@ -14,3 +14,22 @@ Visitor Identity is a source-available, client-side library designed to obtain b
 Visit https://visitor-identity-js.vercel.app to know your visitor id.
 
 Try visiting the same page in incognito mode and notice how the visitor id remains the **same**!
+
+
+## Getting Started
+
+You can install the module via `npm`:
+
+```sh
+npm i react-countdown
+```
+
+```js
+import React from 'react';
+import VisitorId from 'visitor-identity-js';
+...
+componentDidMount() {
+  var unique_visitor_id = VisitorId()
+  console.log(unique_visitor_id);
+}
+```
