@@ -1,0 +1,41 @@
+{
+  "name": "visitor-identity-js",
+  "version": "1.0.0",
+  "description": "Browser Visitor identity JS library with the highest accuracy and stability.",
+  "keywords": [
+    "identification",
+    "fingerprint",
+    "visitor id",
+    "visitor unique id",
+    "visitor identity",
+    "visitor identity js",
+    "browser unique id",
+    "browser fingerprint",
+    "device id",
+    "browser id",
+    "browser unique id",
+    "fraud",
+    "fraud detection",
+    "fraud prevention",
+    "browser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitip81/visitor-identity-js"
+  },
+  "homepage": "https://github.com/amitip81/visitor-identity-js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+      "build": "tsc"
+  },
+  "author": "Amit Malhotra (https://github.com/amitip81)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.13.0",
+    "typescript": "^5.4.5"
+  }
+}
