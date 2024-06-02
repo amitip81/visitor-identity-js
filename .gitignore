@@ -1,0 +1,9 @@
+/node_modules/
+/browserstack.err
+/local.log
+
+# Random excess stuff
+.DS_Store
+.idea/
+.vscode/
+yarn-error.log
