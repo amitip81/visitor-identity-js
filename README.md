@@ -21,13 +21,14 @@ Visit https://visitor-identity-js.vercel.app to know your visitor id.
 Try visiting the same page in incognito mode and notice how the visitor id remains the **same**!
 
 
-## Getting Started
+## Installation
 
 You can install the module via `npm`:
 
 ```sh
 npm i visitor-identity-js
 ```
+## Usage
 
 ```js
 import React from 'react';
