@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/visitor-identity-js"><img src="https://img.shields.io/badge/npm-v1.0.2-blue" alt="Current NPM version"></a>
+  <a href="https://www.npmjs.com/package/visitor-identity-js"><img src="https://img.shields.io/badge/npm-v1.0.3-blue" alt="Current NPM version"></a>
 </p>
 
 
